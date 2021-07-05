@@ -6,7 +6,7 @@ module.exports = {
                 background_color: '',
                 color: '',
                 clientLeft: "",
-                clientTop: ""
+               
               }
         },
         
